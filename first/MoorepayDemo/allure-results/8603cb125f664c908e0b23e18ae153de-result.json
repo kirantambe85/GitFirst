@@ -1,0 +1,94 @@
+{
+  "uuid": "e48b83a62401446c911af5d10d90eb00",
+  "historyId": "Logging in using a user that has access to only one database",
+  "fullName": "Logging in using a user that has access to only one database",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "MUM-LAP-640"
+    },
+    {
+      "name": "feature",
+      "value": "Login feature"
+    }
+  ],
+  "links": [],
+  "name": "Logging in using a user that has access to only one database",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  that I am at the NextGen's Login Page",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159342847,
+      "stop": 1576159342847
+    },
+    {
+      "name": "When  I enter UserName and Password",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159342847,
+      "stop": 1576159343334
+    },
+    {
+      "name": "And  I click LogIn button",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159343334,
+      "stop": 1576159343420
+    },
+    {
+      "name": "Then  database selection screen should not appear",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159343420,
+      "stop": 1576159346620
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1576159342846,
+  "stop": 1576159346620
+}

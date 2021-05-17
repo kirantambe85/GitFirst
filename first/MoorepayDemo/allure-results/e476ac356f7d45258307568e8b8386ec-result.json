@@ -1,0 +1,109 @@
+{
+  "uuid": "607f026108e342ac8dfc9634b1ddc408",
+  "historyId": "Logging in with invalid credentials",
+  "fullName": "Logging in with invalid credentials",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "MUM-LAP-640"
+    },
+    {
+      "name": "feature",
+      "value": "Login feature"
+    }
+  ],
+  "links": [],
+  "name": "Logging in with invalid credentials",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  that I am at the NextGen's Login Page",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159367624,
+      "stop": 1576159367624
+    },
+    {
+      "name": "When  I fill the username with \"incorrect@mail.com\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159367624,
+      "stop": 1576159367861
+    },
+    {
+      "name": "And  I fill the password with \"incorrectpassword\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159367861,
+      "stop": 1576159368100
+    },
+    {
+      "name": "And  I click LogIn button",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159368100,
+      "stop": 1576159368192
+    },
+    {
+      "name": "Then  a text 'Access to the system is denied. The information you have entered is incorrect or you have yet to verify your account. Contact the system administrator if you require assistance.' should appear in the validation errors region",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159368192,
+      "stop": 1576159368849
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1576159367623,
+  "stop": 1576159368849
+}

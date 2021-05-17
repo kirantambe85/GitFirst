@@ -1,0 +1,79 @@
+{
+  "uuid": "20c8879ff0cc4737b935c97bb385392e",
+  "historyId": "Clicking Forgot Your Passowrd? Link",
+  "fullName": "Clicking Forgot Your Passowrd? Link",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "MUM-LAP-640"
+    },
+    {
+      "name": "feature",
+      "value": "Login feature"
+    }
+  ],
+  "links": [],
+  "name": "Clicking Forgot Your Passowrd? Link",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  that I am at the NextGen's Login Page",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159326825,
+      "stop": 1576159326825
+    },
+    {
+      "name": "When  I click Forgot Your Password? link",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159326825,
+      "stop": 1576159327485
+    },
+    {
+      "name": "Then  I should be redirected to Password Reset page",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159327485,
+      "stop": 1576159327566
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1576159326825,
+  "stop": 1576159327566
+}

@@ -1,0 +1,139 @@
+{
+  "uuid": "3fe6cd195fec419982ef272018147088",
+  "historyId": "Login Page look and feel",
+  "fullName": "Login Page look and feel",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "MUM-LAP-640"
+    },
+    {
+      "name": "feature",
+      "value": "Login feature"
+    }
+  ],
+  "links": [],
+  "name": "Login Page look and feel",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  that I am at the NextGen's Login Page",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159382218,
+      "stop": 1576159382218
+    },
+    {
+      "name": "Then  User Name textbox should be available",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159382218,
+      "stop": 1576159382355
+    },
+    {
+      "name": "And  Password textbox should be available",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159382355,
+      "stop": 1576159382454
+    },
+    {
+      "name": "And  Remember Username checkbox should be available",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159382454,
+      "stop": 1576159382531
+    },
+    {
+      "name": "And  Forgotten Password link should be available",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159382531,
+      "stop": 1576159382595
+    },
+    {
+      "name": "And  Login button should be available",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159382595,
+      "stop": 1576159382657
+    },
+    {
+      "name": "And  Contact Us link should be available",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159382657,
+      "stop": 1576159382712
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1576159382218,
+  "stop": 1576159382712
+}

@@ -1,0 +1,109 @@
+{
+  "uuid": "011dd94cc45e4fdda03bc9fdd4efc743",
+  "historyId": "Logging in with blank username and valid password",
+  "fullName": "Logging in with blank username and valid password",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "MUM-LAP-640"
+    },
+    {
+      "name": "feature",
+      "value": "Login feature"
+    }
+  ],
+  "links": [],
+  "name": "Logging in with blank username and valid password",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  that I am at the NextGen's Login Page",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159360295,
+      "stop": 1576159360296
+    },
+    {
+      "name": "When  I leave the username blank",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159360296,
+      "stop": 1576159360403
+    },
+    {
+      "name": "And  I fill the password with \"Ngahr_5678\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159360404,
+      "stop": 1576159360662
+    },
+    {
+      "name": "And  I click LogIn button",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159360662,
+      "stop": 1576159360775
+    },
+    {
+      "name": "Then  a text 'Username is required.' should appear in the validation errors region",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159360775,
+      "stop": 1576159360840
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1576159360295,
+  "stop": 1576159360840
+}

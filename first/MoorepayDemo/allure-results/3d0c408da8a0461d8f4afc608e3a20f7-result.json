@@ -1,0 +1,79 @@
+{
+  "uuid": "331780e6b636494dad20c68e65e0706b",
+  "historyId": "Clicking Cookie and Data Privacy",
+  "fullName": "Clicking Cookie and Data Privacy",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "MUM-LAP-640"
+    },
+    {
+      "name": "feature",
+      "value": "Login feature"
+    }
+  ],
+  "links": [],
+  "name": "Clicking Cookie and Data Privacy",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  that I am at the NextGen's Login Page",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159309962,
+      "stop": 1576159310132
+    },
+    {
+      "name": "When  I click Cookie and Data Privacy link",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159310134,
+      "stop": 1576159319222
+    },
+    {
+      "name": "Then  I should be redirected to Cookie and Data Privacy page",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159319223,
+      "stop": 1576159319484
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1576159309756,
+  "stop": 1576159319491
+}

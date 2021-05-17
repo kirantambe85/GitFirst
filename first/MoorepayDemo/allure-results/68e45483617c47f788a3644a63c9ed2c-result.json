@@ -1,0 +1,109 @@
+{
+  "uuid": "ba3947c09fc24d7e8ffbabd5689ab532",
+  "historyId": "Logging in using a user that has access to more than one database",
+  "fullName": "Logging in using a user that has access to more than one database",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "MUM-LAP-640"
+    },
+    {
+      "name": "feature",
+      "value": "Login feature"
+    }
+  ],
+  "links": [],
+  "name": "Logging in using a user that has access to more than one database",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  that I am at the NextGen's Login Page",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159334672,
+      "stop": 1576159334672
+    },
+    {
+      "name": "When  I fill the username with \"Q10011878\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159334673,
+      "stop": 1576159335050
+    },
+    {
+      "name": "And  I fill the password with \"Ngahr_5678\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159335051,
+      "stop": 1576159335292
+    },
+    {
+      "name": "And  I click LogIn button",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159335292,
+      "stop": 1576159335406
+    },
+    {
+      "name": "Then  database selection screen should appear",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1576159335406,
+      "stop": 1576159336048
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1576159334672,
+  "stop": 1576159336048
+}
